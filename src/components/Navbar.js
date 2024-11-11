@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../images/logo.svg";
-import { navBarLinks } from "../data/data";
-import { socialMediaLinks } from "../data/data";
+import { navBarLinks } from "../data";
+import { socialMediaLinks } from "../data";
 
 const Navbar = () => {
   return (
